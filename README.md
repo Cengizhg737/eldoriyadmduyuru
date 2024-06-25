@@ -1,5 +1,5 @@
-# eldoriyadmduyuru
-Eldoriya Dm Duyuru Botu Discord
+## İstediğiniz gibi özelleştirip kullanabilirsiniz
+## izinsiz paylaşılması yasaktır DC: wraiths0
 
-Discordumuza Katılamyı Unutmayınız: https://discord.gg/6VmeQj8CbT
-Sitemiz: https://eldoriyaproject.gitbook.io/
+## License
+[MIT](https://github.com/WraithsDev/Dm-Duyuru-v12/blob/main/LICENSE)
