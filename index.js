@@ -3,7 +3,7 @@ const client = new Discord.Client();
 var prefix = "+";//istediğiniz gibi ayarlayabilirsiniz prefixi
 var statuses = [`Eldoriya Project`];
 var timers = 2;
-const owners = ["sahip_id"];//botu kullanmak için sahip_id girmeyi unutmayın
+const owners = ["1251163890675486825"];//botu kullanmak için sahip_id girmeyi unutmayın
 
 client.on("ready", () => {
   console.log(`Giriş Yapıldı: ${client.user.tag}`);
@@ -157,4 +157,4 @@ client.on("message", async message => {
   }
 });
 
-client.login(`bottokengir`); //eldoriya project
+client.login(`MTI1ODE2MzQxMzcyNTQ4MzAyOQ.GAvvS5.E7Pte1XabnnijrJRJ_GnDDFeC6_4UeVIfX1CcM`); //eldoriya project
